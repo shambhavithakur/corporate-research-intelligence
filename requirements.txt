@@ -1,0 +1,49 @@
+# Corporate Research Intelligence Platform
+# Path: corporate-research-intelligence/requirements.txt
+# Author: Shambhavi Thakur - Data Intelligence Professional
+
+# Core Data Processing
+pandas
+numpy
+scipy
+
+# AI Integration  
+anthropic
+
+# API and Data Sources
+requests
+beautifulsoup4
+feedparser
+
+# Statistical Analysis
+scikit-learn
+statsmodels
+
+# Web Framework (for API endpoints)
+flask
+flask-cors
+gunicorn
+
+# Configuration Management
+python-dotenv
+pydantic
+
+# Date/Time Processing
+python-dateutil
+pytz
+
+# Data Analysis
+pandas
+numpy
+
+# Data Visualization (for reports)
+matplotlib
+seaborn
+plotly
+
+# Cloud Integration
+google-cloud-storage
+google-cloud-bigquery
+
+# Development Tools
+pytest
