@@ -82,6 +82,9 @@ kaggle_upload.py
 update_kaggle_dataset.py
 generate_kaggle_dataset.py
 KAGGLE_DATASET_UPLOAD.md
+daily-analysis-template.ipynb
+
+blog_articles/
 
 # Cloud deployment
 .gcloudignore
