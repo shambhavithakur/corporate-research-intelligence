@@ -76,6 +76,8 @@ htmlcov/
 .coverage
 .coverage.*
 coverage.xml
+generate_kaggle_dataset.py
+corporate_research_intelligence_kaggle.csv
 
 # Cloud deployment
 .gcloudignore
