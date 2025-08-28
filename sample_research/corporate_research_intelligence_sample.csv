@@ -1,0 +1,16 @@
+date,sector,research_type,opportunity_score,recommendation,market_size,growth_rate,entry_barriers,business_scenario,confidence_level
+2025-08-27,manufacturing,market_entry,8.5,PROCEED,"Rs 45,000 crore",8.5%,Medium - Regulatory compliance required,Market entry viability for manufacturing sector,High
+2025-08-27,retail,market_entry,7.5,PROCEED WITH PLANNING,"Rs 65,000 crore",12.3%,"Low - High competition, location critical",Market entry viability for retail sector,Moderate
+2025-08-27,healthcare,market_entry,9.3,PROCEED,"Rs 85,000 crore",15.2%,High - Regulatory requirements extensive,Market entry viability for healthcare sector,High
+2025-08-27,fintech,market_entry,5.8,EVALUATE ALTERNATIVES,"Rs 25,000 crore",22.1%,High - Compliance and capital intensive,Market entry viability for fintech sector,Moderate
+2025-08-27,logistics,market_entry,6.4,PROCEED WITH PLANNING,"Rs 35,000 crore",10.8%,"Medium - Capital intensive, network effects",Market entry viability for logistics sector,Moderate
+2025-08-27,manufacturing,competitive_intelligence,8.6,PROCEED,"Rs 45,000 crore",8.5%,Medium - Regulatory compliance required,Competitive positioning analysis in manufacturing,High
+2025-08-27,retail,competitive_intelligence,7.6,PROCEED WITH PLANNING,"Rs 65,000 crore",12.3%,"Low - High competition, location critical",Competitive positioning analysis in retail,Moderate
+2025-08-27,healthcare,competitive_intelligence,6.3,PROCEED WITH PLANNING,"Rs 85,000 crore",15.2%,High - Regulatory requirements extensive,Competitive positioning analysis in healthcare,Moderate
+2025-08-27,fintech,competitive_intelligence,7.1,PROCEED WITH PLANNING,"Rs 25,000 crore",22.1%,High - Compliance and capital intensive,Competitive positioning analysis in fintech,Moderate
+2025-08-27,logistics,competitive_intelligence,5.9,EVALUATE ALTERNATIVES,"Rs 35,000 crore",10.8%,"Medium - Capital intensive, network effects",Competitive positioning analysis in logistics,Moderate
+2025-08-27,manufacturing,expansion_planning,6.9,PROCEED WITH PLANNING,"Rs 45,000 crore",8.5%,Medium - Regulatory compliance required,Expansion opportunities assessment in manufacturing,Moderate
+2025-08-27,retail,expansion_planning,7.8,PROCEED WITH PLANNING,"Rs 65,000 crore",12.3%,"Low - High competition, location critical",Expansion opportunities assessment in retail,Moderate
+2025-08-27,healthcare,expansion_planning,7.2,PROCEED WITH PLANNING,"Rs 85,000 crore",15.2%,High - Regulatory requirements extensive,Expansion opportunities assessment in healthcare,Moderate
+2025-08-27,fintech,expansion_planning,10.0,PROCEED,"Rs 25,000 crore",22.1%,High - Compliance and capital intensive,Expansion opportunities assessment in fintech,High
+2025-08-27,logistics,expansion_planning,8.2,PROCEED,"Rs 35,000 crore",10.8%,"Medium - Capital intensive, network effects",Expansion opportunities assessment in logistics,High
