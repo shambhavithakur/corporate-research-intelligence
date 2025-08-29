@@ -29,6 +29,7 @@ ENV/
 
 # Environment Variables
 .env
+.claude
 .env.local
 .env.production
 
@@ -77,15 +78,7 @@ htmlcov/
 .coverage.*
 coverage.xml
 
-kaggle_dataset/
-kaggle_upload.py
-update_kaggle_dataset.py
-generate_kaggle_dataset.py
-KAGGLE_DATASET_UPLOAD.md
-daily-analysis-template.ipynb
-
-blog_articles/
-HOW-TO-USE-KAGGLE.md
+addons/
 
 # Cloud deployment
 .gcloudignore
