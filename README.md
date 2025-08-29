@@ -15,8 +15,8 @@ A proven methodology that transforms market research into competitive advantage 
 ## Case Study & Business Results
 
 - **Client Success Story:** [How AI Research Saved 8 Weeks and ₹12 Lakhs](https://projects.shambhavithakur.com/case-studies/corporate-research-intelligence)
-- **LinkedIn Article:** [How AI Accelerates Enterprise Decision Intelligence](https://www.linkedin.com/pulse/how-ai-accelerates-enterprise-decision-intelligence-shambhavi-thakur-ktk4e)
-- **Medium Analysis:** [Transforming Market Uncertainty into Strategic Millions in Hours](https://medium.com/@shambhavigthakur/transforming-market-uncertainty-into-strategic-millions-in-hours-4680f972cbc0)
+- **LinkedIn Article:** [How AI Accelerates Enterprise Decision Intelligence](https://www.linkedin.com/pulse/why-smart-companies-pay-12-lakhs-research-ai-delivers-thakur-rxt1e)
+- **Medium Analysis:** [Transforming Market Uncertainty into Strategic Millions in Hours](https://medium.com/@shambhavigthakur/transforming-market-uncertainty-into-strategic-millions-in-hours-d752c6fbb3c5)
 - **Kaggle Notebook:** [Corporate Research Intelligence Daily Analysis](https://www.kaggle.com/code/shambhavithakur/corporate-research-intelligence-daily-analysis)
 - **Kaggle Dataset:** [Corporate Research Intelligence - Indian Market Analysis](https://www.kaggle.com/datasets/shambhavithakur/corporate-research-intelligence-dataset)
 - **GitHub Repository:** [Corporate Research Intelligence](https://github.com/shambhavithakur/corporate-research-intelligence)
