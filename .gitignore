@@ -93,3 +93,4 @@ deployment/secrets/
 
 # Ruff cache
 .ruff_cache/
+article_writing_guide/
